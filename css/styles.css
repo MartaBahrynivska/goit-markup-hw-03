@@ -187,7 +187,7 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
 }
 
 .hero-title {
-   
+    margin: 0 auto;
     max-width: 496px;
     font-size: 56px;
     line-height: 1.07;
@@ -195,6 +195,7 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     letter-spacing: 0.02em;
     color: var(--main-light-clr);
 }
+
 .btn {
     display: block;
     margin: 0 auto;
