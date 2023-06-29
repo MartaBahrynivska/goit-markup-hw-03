@@ -101,13 +101,15 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
 .header-nav {
     display: flex;
     align-items: center;
-    padding: 24px 0;
+    
 } 
 
 .header-logo {
     display: flex;
     align-items: center;
-    margin-right: 76px
+    margin-right: 76px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
     
 .logo{
@@ -146,6 +148,8 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--main-dark-cl);
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-link:hover,
