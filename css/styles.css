@@ -127,12 +127,14 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     display: flex;
     align-items: center;
     gap: 40px;
+    
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .list {
 }
 .header-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
 }
 .header-link {
     font-weight: 500;
