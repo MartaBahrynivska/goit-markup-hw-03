@@ -108,6 +108,8 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     display: flex;
     align-items: center;
     margin-right: 76px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 
 
     font-family: Raleway, sans-serif;
@@ -127,13 +129,14 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     display: flex;
     align-items: center;
     gap: 40px;
+
     
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 .list {
 }
 .header-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
     
 }
 .header-link {
@@ -159,7 +162,10 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     gap: 40px;
 }
 
-.address-item {}
+.address-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
 
 .address-link {
     color: var(--text-color);
