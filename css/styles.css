@@ -101,13 +101,13 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
 .header-nav {
     display: flex;
     align-items: center;
+    padding: 24px 0;
 } 
 
 .header-logo {
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    margin-right: 76px
 }
     
 .logo{
