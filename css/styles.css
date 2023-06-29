@@ -108,8 +108,7 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
     display: flex;
     align-items: center;
     margin-right: 76px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
 
 
     font-family: Raleway, sans-serif;
@@ -135,8 +134,8 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
 .list {
 }
 .header-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding: 24px 0;
+    
     
 }
 .header-link {
@@ -163,8 +162,7 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
 }
 
 .address-item {
-    padding-top: 24px;
-    padding-bottom: 24px;
+    
 }
 
 .address-link {
@@ -311,6 +309,8 @@ border-bottom: 1px solid var(--cornflower, #E7E9FC);
 
 .team-item {
     background-color: var(--main-light-bg);
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-img {}
