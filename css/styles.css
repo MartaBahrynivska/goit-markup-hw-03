@@ -88,6 +88,7 @@ img{
 .header {
 background-color: var(--main-light-bg);
 border-bottom: 1px solid var(--cornflower, #E7E9FC);
+padding: 0 15px;
 }
 
 .header-container{
